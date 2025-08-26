@@ -4,6 +4,8 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 In recent years, machine learning has evolved with trends such as AI-driven automation, the rise of transformer models like GPT, increased focus on ethical AI, AI in edge computing, and the integration of AI in various industries including healthcare, finance, and entertainment.
 
+The importance of responsible AI practices has become increasingly recognized, as organizations aim to build fair, transparent, and accountable AI systems.
+
 _If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti)._
 Also, a listed repository should be deprecated if:
 
