@@ -1,29 +1,39 @@
-# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
+# Awesome Machine Learning
 
-A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
+Подборка современных инструментов и библиотек для машинного обучения.
 
-In recent years, machine learning has evolved with trends such as AI-driven automation, the rise of transformer models like GPT, increased focus on ethical AI, AI in edge computing, and the integration of AI in various industries including healthcare, finance, and entertainment.
+## Содержание
+- Фреймворки
+- Библиотеки для обработки данных
+- Современные инструменты (новый раздел)
+- Примеры и учебные проекты
 
-The importance of responsible AI practices has become increasingly recognized, as organizations aim to build fair, transparent, and accountable AI systems.
+---
 
-_If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti)._
-Also, a listed repository should be deprecated if:
+# Фреймворки
 
-* Repository's owner explicitly says that "this library is not maintained".
-* Not committed for a long time (2~3 years).
+- TensorFlow — популярный open source-фреймворк от Google для глубинного обучения и нейросетей.
+- PyTorch — гибкий и широко используемый фреймворк с динамическими вычислительными графами от Meta AI.
+- Scikit-learn — набор простых и мощных инструментов машинного обучения на Python (классика ML).
 
-Further resources:
+# Библиотеки для обработки данных
 
-* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+- Pandas — продвинутая библиотека, которая облегчает анализ и обработку табличных данных.
+- NumPy — библиотека для работы с многомерными массивами и матрицами, широко используется для численных расчетов и подготовки данных.
+- Dask — инструмент для обработки больших данных и параллельных вычислений на кластере или одном компьютере.
 
-* For a list of professional machine learning events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md).
+# Современные инструменты
 
-* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
+- MLflow — платформа для организации процесса экспериментов, отслеживания метрик и упаковки моделей;
+- Weights & Biases — гибкая облачная система логирования, визуализации экспериментов и совместной работы;
+- Optuna — расширенная система для автоматического подбора гиперпараметров и оптимизации моделей;
 
-* For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
+# Примеры и учебные проекты
 
-* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
+- Kaggle Datasets — крупнейшее сообщество аналитиков с открытыми наборами данных и конкурсами по машинному обучению;
+- fast.ai — бесплатные практико-ориентированные курсы и сопутствующие учебные ноутбуки;
+- scikit-learn Tutorials — пошаговые руководства и небольшие проекты для знакомства с ML-алгоритмами.
 
-## Table of Contents
+---
 
-### Frameworks and Libraries
+Этот список развивается! Добавляйте ваши предложения и современные инструменты, чтобы сделать подборку ещё полезнее.
